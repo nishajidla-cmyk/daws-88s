@@ -1,0 +1,11 @@
+AWS account creation
+ Client server architecture 
+SSH keys create 
+Firewall create 
+EC2 instance launch 
+Connect
+
+ Next topic
+---------------
+ Linux commands 
+Something architecture
