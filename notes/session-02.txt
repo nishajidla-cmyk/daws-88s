@@ -10,3 +10,23 @@ Connect
  Linux commands 
 Something architecture
 git push
+-----------------------------------------
+Architecture
+
+Architecture means the design of a system and how components are connected.
+
+Client–Server Architecture
+- Client sends request
+- Server processes request
+- Server sends response back to client
+
+Examples:
+- Browser → Web Server
+- Laptop → EC2 instance (SSH)
+
+AWS Example:
+Client: Laptop
+Server: EC2
+Network: Internet
+Protocol: SSH
+Security: Key pair and Security Group
