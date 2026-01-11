@@ -1,0 +1,7 @@
+SDLC
+Software Development Life Cycle
+Requirements
+Development
+Testing
+Deployment
+Maintainance
